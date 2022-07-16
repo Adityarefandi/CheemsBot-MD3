@@ -30,7 +30,7 @@ global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to o
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
 global.autoReadAll = true // auto reading in all pchat gc and status (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
-global.available = false //auto available (true to on, false to off)
+global.available = true  //auto available (true to on, false to off)
 
 //documents variants
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -54,7 +54,7 @@ global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "Ditz_Md "
 global.author = "𝒜𝒹𝒾𝓉𝓎𝒶 ℛℯ𝒻𝒶𝓃𝒹𝒾"
 global.themeemoji = "🐶"
-global.reactmoji = "💕"
+global.reactmoji = "😽"
 global.ownertag = ['6282244877433'] //ur owner tag
 global.ownernummenu = ['6282244877433'] //ur owner number in menu and all
 global.watermark = "©𝒜𝒹𝒾𝓉𝓎𝒶 ℛℯ𝒻𝒶𝓃𝒹𝒾" //ur watermark
