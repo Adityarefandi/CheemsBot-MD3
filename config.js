@@ -48,7 +48,7 @@ global.socialm = "https://vt.tiktok.com/ZSdoCy7sg/" //ur github or insta name
 global.location = "Indonesia,Japan" //ur location
 
 //bot bombdy
-global.botname = "*Ditz_Md" //ur bot name
+global.botname = "𝘿𝙞𝙩𝙯𝙯ᵇᵒᵗ" //ur bot name
 global.websitex = "https://vt.tiktok.com/ZSdoCy7sg/" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "Ditz_Md "
